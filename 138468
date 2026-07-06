@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Educational background </title>
+    <link rel="stylesheet"
+    href="style.CSS"
+</head>
+<body>
+
+</body>
+</html>
+     <h1>
+Educational background </h1>
+
+<h2>Nursery and primary school</h2>
+    <p>
+    I attended A.T International school from playground down to nursery and primary school started at the year 2009 and then finished my primary at the year 2017 </p>
+     <h>
+ My jenior education </h2>
+     <p>
+     I attended same school so I graduate from junior school at the year 2020</p>
+     <h2>
+      secondary education </h2>
+     <p>
+      same school graduated 2023</p>
+      <h2>
+      University education </h2>
+       <p>
+      currently studying computer science at northwest University as I mentioned earlier </p>
+ 
+ <a href="Hobbies.HTML>Go to my hobbies </a>"
+ </body>
+ </HTML>

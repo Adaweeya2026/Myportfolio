@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>My Family</title>
+  <link rel="stylesheet"
+    href="style.CSS">
+</head>
+<body>
+  <main>
+    <h1>My Family</h1>
+
+    <p>My family is very important to me. We love and support each other every day. We enjoy spending time together, talking, laughing, and helping one another. I am thankful to have such a caring family.</p>
+
+    <section>
+      <h2>My Parents</h2>
+      <p>My parents work hard to take care of our family. They teach me good values and always encourage me to do my best.</p>
+    </section>
+
+    <section>
+      <h2>My Siblings</h2>
+      <p>I enjoy spending time with my brothers and sisters. We play together, help each other, and sometimes argue, but we always make up.</p>
+    </section>
+
+    <section>
+      <h2>Family Time</h2>
+      <p>We like eating together, celebrating special days, and sharing happy moments. These memories make our family stronger and bring us closer.</p>
+    </section>
+  </main>
+</body>
+</html>
